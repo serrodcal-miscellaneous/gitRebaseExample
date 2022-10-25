@@ -1,5 +1,7 @@
 # Git Rebase Example
 
+![](img/rebase.png)
+
 In the situation depicted below.
 
 ![](img/1.png)
